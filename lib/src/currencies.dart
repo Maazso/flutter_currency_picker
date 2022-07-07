@@ -1,6 +1,19 @@
 //Order by Most traded currencies: https://en.wikipedia.org/wiki/Template:Most_traded_currencies
 List<Map<String, dynamic>> currencies = [
   {
+    "code": "SGD",
+    "name": "Sudan pound",
+    "symbol": "SGD",
+    "flag": "SD",
+    "decimal_digits": 2,
+    "number": 840,
+    "name_plural": "SGD pound",
+    "thousands_separator": ",",
+    "decimal_separator": ".",
+    "space_between_amount_and_symbol": false,
+    "symbol_on_left": true,
+  },
+  {
     "code": "USD",
     "name": "United States Dollar",
     "symbol": "\$",
