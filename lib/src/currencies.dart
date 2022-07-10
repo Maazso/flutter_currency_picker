@@ -1,6 +1,32 @@
 //Order by Most traded currencies: https://en.wikipedia.org/wiki/Template:Most_traded_currencies
 List<Map<String, dynamic>> currencies = [
   {
+    "code": "XAF",
+    "name": "CFA franc BEAC",
+    "symbol": "\£",
+    "flag": "td",
+    "decimal_digits": 2,
+    "number": 950,
+    "name_plural": "CFA franc BEAC",
+    "thousands_separator": ",",
+    "decimal_separator": ".",
+    "space_between_amount_and_symbol": false,
+    "symbol_on_left": true,
+  },
+  {
+    "code": "SSP",
+    "name": "South Sudanese pound",
+    "symbol": "\£",
+    "flag": "SS",
+    "decimal_digits": 2,
+    "number": 728,
+    "name_plural": "South Sudan SSP",
+    "thousands_separator": ",",
+    "decimal_separator": ".",
+    "space_between_amount_and_symbol": false,
+    "symbol_on_left": true,
+  },
+  {
     "code": "SDG",
     "name": "Sudanese pound",
     "symbol": "SDG",
